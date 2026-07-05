@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [3921-score-validator](https://github.com/ShrutiAnand03/dsa-practice/tree/master/3921-score-validator) |
 ## String
 |  |
@@ -23,4 +24,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
