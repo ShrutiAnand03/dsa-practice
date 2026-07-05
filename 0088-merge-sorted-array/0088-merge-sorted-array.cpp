@@ -21,3 +21,7 @@ public:
 };
 
 
+// nums1 = [4,5,6,0,0,0], nums2=[1,2,3] good test case for 2nd while loop, n=3, m=3
+// nums1 = [1,2,3,0,0,0], nums2 = [2,5,6] good test case for 1st while loop n=3, m=3
+
+
