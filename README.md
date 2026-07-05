@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [3921-score-validator](https://github.com/ShrutiAnand03/dsa-practice/tree/master/3921-score-validator) |
@@ -32,12 +33,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
