@@ -1,23 +1,23 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        map<int,int>mp;
+        int i = m-1;
+        int j = n-1;
+        int k = m+n-1;
 
-        for(int i=0; i<m; i++){
-            mp[nums1[i]]++;
-        }
-
-        for(int i=0; i<n; i++){
-            mp[nums2[i]]++;
-        }
-
-        nums1.clear();
-
-        for(auto v: mp){
-            while(v.second !=0){
-                nums1.push_back(v.first);
-                v.second --;
+        while(i>=0 && j>=0){
+            if(nums1[i] > nums2[j]){
+                nums1[k--] = nums1[i--];
             }
+            else{
+                nums1[k--] = nums2[j--];
+            }
+        }
+
+        while(j>=0){
+            nums1[k--] = nums2[j--];
         }
     }
 };
+
+
