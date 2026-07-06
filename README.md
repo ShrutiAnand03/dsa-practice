@@ -15,6 +15,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 | [3921-score-validator](https://github.com/ShrutiAnand03/dsa-practice/tree/master/3921-score-validator) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
