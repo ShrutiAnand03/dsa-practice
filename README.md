@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
@@ -78,11 +79,17 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShrutiAnand03/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
