@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
