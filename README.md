@@ -13,6 +13,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShrutiAnand03/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
@@ -41,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,9 +100,11 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0507-perfect-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
