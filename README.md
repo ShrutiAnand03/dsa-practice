@@ -76,6 +76,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -101,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0728-self-dividing-numbers) |
@@ -118,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
