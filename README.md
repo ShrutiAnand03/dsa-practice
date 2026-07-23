@@ -14,6 +14,7 @@
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
