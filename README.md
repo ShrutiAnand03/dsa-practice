@@ -139,4 +139,20 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
