@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -164,10 +166,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
