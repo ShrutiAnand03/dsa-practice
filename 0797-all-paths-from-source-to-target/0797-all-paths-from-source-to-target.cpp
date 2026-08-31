@@ -2,33 +2,36 @@ class Solution {
 public:
     void dfs(
         int src,
-        int target,
-        vector<vector<int>>& graph,
+        int n,
+        vector<int>& path,
         vector<int>& visited,
-        vector<int>path,
-        vector<vector<int>>& allPath
-
+        vector<vector<int>>& allPath,
+        vector<vector<int>>& graph
     ){
-        visited[src] =1;
+        visited[src]=1;
         path.push_back(src);
 
-        if (src == target){
+        if(src == n-1){
             allPath.push_back(path);
         }
+
         for(auto v: graph[src]){
             if(!visited[v]){
-                dfs(v, target, graph, visited, path, allPath);
+                dfs(v, n, path, visited, allPath, graph);
             }
         }
-        path.pop_back();
+
         visited[src] =0;
+        path.pop_back();
     }
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
         int n = graph.size();
+
         vector<vector<int>>allPath;
-        vector<int>visited(n, 0);
         vector<int>path;
-        dfs(0, n-1, graph, visited, path, allPath);
+        vector<int>visited(n, 0);
+
+        dfs(0, n, path, visited, allPath, graph);
         return allPath;
     }
 };
