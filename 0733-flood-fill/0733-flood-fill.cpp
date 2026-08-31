@@ -1,42 +1,45 @@
 class Solution {
 public:
+    void dfs(
+        int sr,
+        int sc,
+        int m, 
+        int n,
+        int color,
+        int original_color,
+        vector<vector<int>>& visited,
+        vector<vector<int>>& image
+    ){
+        if(sr <0 || sr >=m || sc<0 || sc>=n) return;
+        if(image[sr][sc]!=original_color) return;
+
+        visited[sr][sc] =1;
+        image[sr][sc] = color;
+
+        dfs(sr-1, sc, m, n, color, original_color, visited, image); 
+        dfs(sr+1, sc, m, n, color, original_color, visited, image); 
+        dfs(sr, sc-1, m, n, color, original_color, visited, image); 
+        dfs(sr, sc+1, m, n, color, original_color, visited, image); 
+
+    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int m = image.size();
         int n = image[0].size();
 
-        queue<pair<int,int>>q;
-        vector<vector<int>>visited(m, vector<int>(n,0));
+        vector<vector<int>>visited(m, vector<int>(n, 0));
+        if(image[sr][sc] == color) return image;
 
-        int originalcolor = image[sr][sc];
-        if(originalcolor == color) return image;
-
-        image[sr][sc] = color;
-        visited[sr][sc] =1;
-        q.push({sr,sc});
-
-        while(!q.empty()){
-            pair<int,int>curr = q.front();
-            q.pop();
-
-            int r = curr.first;
-            int c = curr.second;
-
-            vector<int> dr = {-1,1,0,0};
-            vector<int> dc = {0,0,-1,1};
-
-            for(int i=0; i<4; i++){
-                int nr = r+dr[i];
-                int nc = c+dc[i];
-
-                if(nr<0 || nc<0 || nr >=m || nc >=n) continue;
-                if(image[nr][nc] != originalcolor) continue;
-                if(visited[nr][nc] == 1) continue;
-
-                image[nr][nc] = color;
-                q.push({nr,nc});
-            }
-        }
-
+        int original_color = image[sr][sc];
+        dfs(
+            sr, 
+            sc, 
+            m, 
+            n, 
+            color, 
+            original_color, 
+            visited, 
+            image
+        );
         return image;
     }
 };
