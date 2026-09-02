@@ -1,52 +1,39 @@
 class Solution {
 public:
-    int bfs(
-        int sr, 
-        int sc, 
+    void dfs(
         int m,
         int n,
-        vector<vector<char>>& grid, 
+        int sr,
+        int sc,
+        vector<vector<char>>& grid,
         vector<vector<int>>& visited
     ){
-        queue<pair<int,int>>q;
-        visited[sr][sc] = 1;
-        q.push({sr, sc});
+        if(sr <0 || sr>=m || sc<0 || sc>=n) return;
+        if(visited[sr][sc]==1) return;
+        if(grid[sr][sc]=='0') return;
 
-        while(!q.empty()){
-            pair<int,int> curr = q.front();
-            q.pop();
-            int r = curr.first;
-            int c = curr.second;
+        visited[sr][sc] =1;
 
-            vector<int>dr = {-1, 1, 0, 0};
-            vector<int>dc = {0, 0, -1, 1};
-
-            for(int i=0; i<4; i++){
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if(nr <0 || nc <0 || nr>=m || nc>=n) continue;
-                if(visited[nr][nc]) continue;
-                if(grid[nr][nc] == '0') continue;
-
-                visited[nr][nc] =1;
-                q.push({nr,nc});
-            }
-        }
-
-        return 1;
+        dfs(m, n, sr-1, sc, grid, visited);
+        dfs(m, n, sr+1, sc, grid, visited);
+        dfs(m, n, sr, sc-1, grid, visited);
+        dfs(m, n, sr, sc+1, grid, visited);
 
     }
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>>visited(m, vector<int>(n, 0));
-        int count =0;
+        vector<vector<int>>visited(m, vector<int>(n,0));
 
+        int count =0;
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                if(grid[i][j]=='1' && !visited[i][j]){
-                    count+= bfs(i,j,m,n,grid,visited);
+                if(
+                    grid[i][j]!='0' && 
+                    visited[i][j]!=1
+                ){
+                    dfs(m, n, i, j, grid, visited);
+                    count++;
                 }
             }
         }
@@ -54,15 +41,3 @@ public:
         return count;
     }
 };
-
-
-// [(0,0), (0,1), (1,0)]
-// [(0,1), (1,0), (0,2), (1,1)]
-// [(1,0), (0,2), (1,1), (2,0)]
-// [(0,2), (1,1), (2,0), (0,3)]
-// [(1,1), (2,0), (0,3), (2,1)]
-// [(2,0), (0,3), (2,1)]
-// [(0,3), (2,1), (1,3)]
-// [(2,1), (1,3)]
-// [(1,3)]
-// []
