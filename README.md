@@ -135,6 +135,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
