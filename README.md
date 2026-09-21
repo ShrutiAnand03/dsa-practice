@@ -116,6 +116,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0507-perfect-number) |
@@ -135,6 +136,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
@@ -208,6 +210,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
