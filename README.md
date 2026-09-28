@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
@@ -214,4 +216,12 @@
 | [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
