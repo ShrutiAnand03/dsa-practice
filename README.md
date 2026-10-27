@@ -161,6 +161,7 @@
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
@@ -173,6 +174,7 @@
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
@@ -184,11 +186,13 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
@@ -235,4 +239,12 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
