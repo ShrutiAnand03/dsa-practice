@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
