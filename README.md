@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
