@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -78,6 +80,7 @@
 | [0011-container-with-most-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -267,4 +271,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
