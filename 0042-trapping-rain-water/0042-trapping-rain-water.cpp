@@ -2,30 +2,33 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         // time complexity - o(n)
-        // space complexity - o(n)
 
         int n = height.size();
-        int ans =0;
 
-        vector<int>left(n, 0);
-        vector<int>right(n, 0);
+        if(n<3) return 0;
+        int left =0, right = n-1;
+        int leftmax =0, rightmax =0;
+        int totalwater =0;
 
-        // calculate leftmax
-        left[0] = height[0];
-        for(int i=1;i<n;i++){
-            left[i] = max(left[i-1], height[i]);
+        while(left<right){
+            if(height[left]<height[right]){
+                // update leftmax 
+                leftmax = max(leftmax, height[left]);
+
+                //calculate water stored
+                totalwater+= leftmax-height[left];
+                left++;
+            }
+            else{
+                //calculate rightmax
+                rightmax = max(rightmax, height[right]);
+
+                //calculate water stored
+                totalwater+= rightmax-height[right];
+                right--;
+            }
         }
 
-        // calculate rightmax
-        right[n-1] = height[n-1];
-        for(int i=n-2;i>=0;i--){
-            right[i] = max(right[i+1], height[i]);
-        }
-
-        for(int i=1; i<n-1; i++){
-            ans+=(min(left[i], right[i])-height[i]);
-        }
-
-        return ans;
+        return totalwater;
     }
 };
