@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<int>st;
+        // stack<int>st;
+        int top =-1;
         unordered_map<char, int>mp;
         mp['('] =1;
         mp['{'] =2;
@@ -14,16 +15,16 @@ public:
         for(int i=0; i<s.size(); i++){
             int val = mp[s[i]];
 
-            if(val > 0) st.push(val);
+            if(val > 0) s[++top] = s[i];
 
             else{
-                if(!st.empty() && val + st.top()==0) st.pop();
+                if(top!=-1 && (val + mp[s[top]])==0) top--;
                 else{
                     return false;
                 }
             }
         }
 
-        return st.empty();
+        return top == -1;
     }
 };
