@@ -1,25 +1,25 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char>st;
+        int top = -1;
 
         for(int i=0; i<s.size(); i++){
             if(s[i] == '(' || s[i] == '{' || s[i] == '['){
-                st.push(s[i]);
+                s[++top] = s[i];
             }
             else{
-                if(st.empty()) return false;
+                if(top == -1) return false;
 
                 if(
-                    s[i] == ')' && st.top()!= '('
-                    || s[i] == '}' && st.top()!= '{'
-                    || s[i] == ']' && st.top()!= '['
+                    s[i] == ')' && s[top]!= '('
+                    || s[i] == '}' && s[top]!= '{'
+                    || s[i] == ']' && s[top]!= '['
                 ) return false;
 
-                st.pop();
+                top--;
             }
         }
 
-        return st.empty();
+        return top == -1;
     }
 };
