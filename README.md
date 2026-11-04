@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
@@ -110,6 +111,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
