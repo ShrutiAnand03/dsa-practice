@@ -282,4 +282,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
