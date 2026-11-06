@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0507-perfect-number) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Sweep Line
 |  |
