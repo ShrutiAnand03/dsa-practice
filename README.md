@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
@@ -159,6 +160,7 @@
 | [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -230,6 +232,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
