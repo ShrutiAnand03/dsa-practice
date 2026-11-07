@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
