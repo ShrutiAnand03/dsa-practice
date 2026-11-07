@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
+| [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [3921-score-validator](https://github.com/ShrutiAnand03/dsa-practice/tree/master/3921-score-validator) |
 ## Simulation
 |  |
@@ -108,6 +109,7 @@
 | [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
+| [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
