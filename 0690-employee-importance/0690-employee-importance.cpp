@@ -11,31 +11,27 @@ public:
 class Solution {
 public:
     void dfs(
-        Employee* src, 
+        int src, 
         vector<Employee*>& employees, 
-        vector<int>visited,
+        unordered_map<int, Employee*>mp,
         int& res
     ){
-        visited[src->id] =1;
-        res+=src->importance;
+        Employee* emp = mp[src];
+        res+=emp->importance;
         
-        for(auto v: src->subordinates){
-            if(!visited[v]){
-                for(auto it: employees){
-                    if(it->id  == v) dfs(it,employees, visited, res);
-                }
-            }
+        for(auto v: emp->subordinates){
+            dfs(v,employees, mp,res);
         }
     }
     int getImportance(vector<Employee*> employees, int id) {
-        vector<int>visited(2001, 0);   
+        unordered_map<int, Employee*> mp;
         int res =0; 
+
         for(auto employee: employees){
-            if(employee->id  == id){
-                dfs(employee, employees, visited, res); 
-            }
-                
+            mp[employee->id] = employee; 
         }
+
+        dfs(id, employees, mp, res);
 
         return res;
     }
