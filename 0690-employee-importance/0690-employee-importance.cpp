@@ -13,27 +13,30 @@ public:
     void dfs(
         Employee* src, 
         vector<Employee*>& employees, 
-        vector<int>& visited,
+        vector<int>visited,
         int& res
     ){
-        visited[src->id] = 1;
-        res+= src->importance;
-
+        visited[src->id] =1;
+        res+=src->importance;
+        
         for(auto v: src->subordinates){
             if(!visited[v]){
                 for(auto it: employees){
-                    if(it->id == v) dfs(it, employees, visited, res);
+                    if(it->id  == v) dfs(it,employees, visited, res);
                 }
             }
         }
     }
     int getImportance(vector<Employee*> employees, int id) {
-        vector<int>visited(2001, 0);
-        int res =0;
-        for(auto v: employees){
-            if(v->id == id) dfs(v, employees, visited, res);
+        vector<int>visited(2001, 0);   
+        int res =0; 
+        for(auto employee: employees){
+            if(employee->id  == id){
+                dfs(employee, employees, visited, res); 
+            }
+                
         }
-        return res;
 
+        return res;
     }
 };
