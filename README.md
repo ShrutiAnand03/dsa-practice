@@ -27,6 +27,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
@@ -171,6 +172,7 @@
 | [0198-house-robber](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -247,6 +249,7 @@
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
@@ -322,8 +325,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
