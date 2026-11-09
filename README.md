@@ -27,6 +27,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
+| [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0389-find-the-difference) |
+| [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
@@ -194,6 +196,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -207,6 +210,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -275,6 +279,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
