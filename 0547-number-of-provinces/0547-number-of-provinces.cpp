@@ -5,9 +5,9 @@ public:
         vector<vector<int>>& isConnected, 
         vector<int>& visited
     ){
-        visited[src] =1;
+        visited[src] = 1;
 
-        for(int i=0; i<isConnected[src].size(); i++){
+        for(int i =0; i<isConnected[src].size(); i++){
             if(isConnected[src][i] == 1 && !visited[i]){
                 dfs(i, isConnected, visited);
             }
@@ -15,16 +15,16 @@ public:
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<int>visited(n);
-        int noOfProviences = 0;
+        vector<int>visited(n, 0);
+        int countProvinces = 0;
 
         for(int i=0; i<n; i++){
             if(!visited[i]){
+                countProvinces++;
                 dfs(i, isConnected, visited);
-                noOfProviences++;
             }
         }
 
-        return noOfProviences;
+        return countProvinces;
     }
 };
