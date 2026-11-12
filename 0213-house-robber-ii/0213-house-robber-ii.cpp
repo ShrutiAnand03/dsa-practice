@@ -1,37 +1,34 @@
 class Solution {
 public:
-    int maxSum(
-        vector<int>& nums, 
-        int idx,
-        vector<int>& dp
-    ){
-        if(idx == 0) return nums[0];
-        if(idx < 0) return 0;
+    int maxAmount(int n, vector<int>& nums, vector<int>& dp){
+        if(n==0) return 0;
+        if(n==1) return nums[0];
+        
+        if(dp[n]!=-1) return dp[n];
 
-        if(dp[idx]!= -1) return dp[idx];
+        int pick = nums[n-1] + maxAmount(n-2, nums, dp);
+        int notpick = 0 + maxAmount(n-1, nums, dp);
 
-        int left = nums[idx] + maxSum(nums,  idx-2, dp); // pick
-        int right = 0+ maxSum(nums, idx-1, dp); // not pick
-
-        return dp[idx]= max(left, right);
+        return dp[n] = max(pick, notpick);
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n == 1) return nums[0];
-        
-        vector<int>temp1, temp2;
+        if(n==1) return nums[0];
 
-        for(int i=0; i<n; i++){
-            if(i != 0) temp1.push_back(nums[i]);
-            if(i != n-1) temp2.push_back(nums[i]);
+        vector<int>nums1;
+        vector<int>nums2;
+
+        for(int i=0; i<nums.size(); i++){
+            if(i!=0) nums1.push_back(nums[i]);
+            if(i!=nums.size()-1) nums2.push_back(nums[i]);
         }
 
-        vector<int>dp1(temp1.size()+1, -1);
-        vector<int>dp2(temp2.size()+1, -1);
-
+        vector<int>dp1(nums1.size()+1, -1);
+        vector<int>dp2(nums2.size()+1, -1);
+        
         return max(
-            maxSum(temp1, temp1.size()-1, dp1), 
-            maxSum(temp2, temp2.size()-1, dp2)
+            maxAmount(nums1.size(), nums1, dp1),
+            maxAmount(nums2.size(), nums2, dp2)
         );
     }
 };
