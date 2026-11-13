@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0231-power-of-two) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -348,4 +350,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
