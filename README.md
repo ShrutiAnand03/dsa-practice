@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0042-trapping-rain-water) |
@@ -108,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
