@@ -35,6 +35,7 @@
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
+| [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
