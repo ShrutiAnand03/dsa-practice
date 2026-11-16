@@ -16,6 +16,7 @@
 | [0063-unique-paths-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0120-triangle) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
