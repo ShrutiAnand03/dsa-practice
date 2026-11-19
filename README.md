@@ -30,6 +30,7 @@
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0286-walls-and-gates](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0286-walls-and-gates) |
 | [0303-range-sum-query-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0322-coin-change) |
@@ -161,6 +162,7 @@
 | [0063-unique-paths-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
