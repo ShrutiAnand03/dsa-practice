@@ -44,6 +44,7 @@
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -161,6 +162,7 @@
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 ## Math
@@ -248,6 +250,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
