@@ -38,6 +38,7 @@
 | [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
@@ -161,6 +162,7 @@
 | [0064-minimum-path-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -202,6 +204,7 @@
 | [0494-target-sum](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
