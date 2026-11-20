@@ -1,19 +1,27 @@
 class Solution {
 public:
-    void dfs(
-        int source,
+    bool dfs(
+        int source, 
+        int destination, 
         vector<vector<int>>& adj, 
         vector<int>& visited
     ){
         visited[source] =1;
-        for(auto v: adj[source]){
+
+        for(auto &v: adj[source]){
             if(!visited[v]){
-                dfs(v, adj, visited);
+                if(v == destination) return true;
+                bool ans =dfs(v, destination, adj, visited);
+                if(ans) return true;
             }
         }
+
+        return false;
     }
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+    vector<vector<int>> createGraph(int n, vector<vector<int>>& edges){
+
         vector<vector<int>>adj(n);
+
         for(auto edge: edges){
             int u = edge[0];
             int v = edge[1];
@@ -22,9 +30,13 @@ public:
             adj[v].push_back(u);
         }
 
-        vector<int>visited(n,0);
-        dfs(source, adj, visited);
-
-        return visited[destination];
+        return adj;
+    }
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<vector<int>> adj = createGraph(n, edges);
+        vector<int>visited(n, 0);
+        
+        if(source == destination) return true;
+        return dfs(source, destination, adj, visited);
     }
 };
