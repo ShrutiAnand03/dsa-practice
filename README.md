@@ -237,6 +237,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0690-employee-importance) |
@@ -254,6 +255,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0463-island-perimeter) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -311,6 +314,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
