@@ -52,6 +52,7 @@
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1920-build-array-from-permutation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShrutiAnand03/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3921-score-validator](https://github.com/ShrutiAnand03/dsa-practice/tree/master/3921-score-validator) |
@@ -171,6 +172,7 @@
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
