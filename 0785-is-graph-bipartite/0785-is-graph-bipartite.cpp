@@ -24,7 +24,7 @@ public:
 
         for(int i=0; i<n; i++){  
             if(!visited[i]){
-                int ans = dfs(i, graph, visited, 1);
+                bool ans = dfs(i, graph, visited, 1);
                 if(!ans) return false;
             }
         }
