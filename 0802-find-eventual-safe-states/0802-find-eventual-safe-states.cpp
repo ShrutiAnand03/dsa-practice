@@ -1,44 +1,54 @@
 class Solution {
 public:
-    bool dfs(
-        int src,
-        vector<int>& visited,
-        vector<int>& current_path,
-        vector<vector<int>>& graph
-    ){
-        visited[src] =1;
-        current_path[src] =1;
-
-        for(auto nbr: graph[src]){
-            if(!visited[nbr]){
-                bool isCycle = dfs(nbr, visited, current_path, graph);
-                if(isCycle) return true;
-            }
-            else{
-                if(current_path[nbr] ==1) return true;
-            }
-        }
-
-        current_path[src] =0;
-        return false;
-    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int>visited(n, 0);
-        vector<int>current_path(n, 0);
+        vector<int>outdegree(n, 0);
+        queue<int>q;
         vector<int>ans;
 
+        // calculate the outdegree of all the nodes
+        // push only the terminal nodes in the queue at the start
+        // now we have to go backward from the terminal node so we must create a backward adj list
+
+        // initialisation
         for(int i=0; i<n; i++){
-            if(!visited[i]){
-                bool iscycle = dfs(i, visited, current_path, graph);
+            for(auto &v: graph[i]){
+                outdegree[i]++;
             }
         }
 
-        for(int i=0;i<n;i++){
-            cout<<current_path[i]<<" ";
-            if(current_path[i]!=1) ans.push_back(i);
+        // creating the backward list
+        vector<vector<int>> backward_list(n);
+        for(int i=0; i<n; i++){
+            for(auto &v: graph[i]){
+                backward_list[v].push_back(i);
+            }
         }
 
+        //pushing those elements in the queue which has the outdegree as 0
+        for(int i=0; i<n; i++){
+            if(outdegree[i] == 0){
+                q.push(i);
+            }
+        }
+
+        for(auto &v: ans){
+            cout<<v<<" ";
+        }
+
+        while(!q.empty()){
+            int f = q.front();
+            q.pop();
+            ans.push_back(f);
+
+            for(auto &v: backward_list[f]){
+                outdegree[v]--;
+
+                if(outdegree[v] ==0){
+                    q.push(v);
+                }
+            }
+        }
         sort(ans.begin(), ans.end());
 
         return ans;
