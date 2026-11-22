@@ -247,6 +247,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -270,6 +271,7 @@
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -292,6 +294,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
+| [1462-course-schedule-iv](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -316,6 +319,7 @@
 | [0207-course-schedule](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1462-course-schedule-iv) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
