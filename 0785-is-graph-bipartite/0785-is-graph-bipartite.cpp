@@ -1,36 +1,34 @@
 class Solution {
 public:
     bool dfs(
-        vector<vector<int>>& graph,
+        int src, 
+        vector<vector<int>>& graph, 
         vector<int>& visited,
-        int color,
-        int src
+        int color
     ){
-        visited[src] = color;
+        visited[src] =color;
+
         for(auto &v: graph[src]){
             if(!visited[v]){
-                if(!dfs(graph, visited, 3-color, v)){
-                    return false;
-                }
+                bool ans = dfs(v, graph, visited, 3-color);
+                if(!ans) return false;
             }
-            else if(visited[src] == visited[v]){
-                return false;
-            }
+            else if(visited[v] == visited[src]) return false;
         }
 
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
-        int v = graph.size();
-        vector<int>visited(v, 0);
-        bool ans = true;
+        int n = graph.size();
+        vector<int>visited(n, 0);
 
-        for(int i=0; i<v; i++){
+        for(int i=0; i<n; i++){  
             if(!visited[i]){
-                ans = dfs(graph, visited, 1, i);
+                int ans = dfs(i, graph, visited, 1);
                 if(!ans) return false;
             }
         }
-        return ans;
+
+        return true;
     }
 };
