@@ -1,28 +1,22 @@
 class Solution {
 public:
-    bool dfs(
+    void dfs(
         int src, 
-        int destination, 
         vector<vector<int>>& adj, 
         vector<int>& visited
     ){
         visited[src] =1;
-        if(src == destination) return true;
 
         for(auto &v: adj[src]){
             if(!visited[v]){
-                bool ans = dfs(v, destination, adj, visited);
-                if(ans) return true;
+                dfs(v, adj, visited);
             }
-
-            else if(v == destination) return true;
         }
-
-        return false;
     }
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
 
         vector<vector<int>>adj(numCourses);
+        vector<vector<int>>matrix;
 
         for(auto &edge: prerequisites){
             int u = edge[0];
@@ -31,14 +25,18 @@ public:
             adj[u].push_back(v);
         }
 
+        for(int i=0; i<numCourses; i++){
+            vector<int>visited(numCourses, 0);
+            dfs(i, adj, visited);
+            matrix.push_back(visited);
+        }
+
         vector<bool>ans(queries.size());
 
         for(int query=0; query<queries.size(); query++){
             int source = queries[query][0];
             int destination = queries[query][1];
-
-            vector<int>visited(numCourses, 0);
-            ans[query] = dfs(source, destination, adj, visited);
+            ans[query] = matrix[source][destination];
         }
 
         return ans;
