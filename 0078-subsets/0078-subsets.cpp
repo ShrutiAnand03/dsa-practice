@@ -1,10 +1,10 @@
 class Solution {
 public:
-    void getSubsets(
+    void getsubsets(
         int idx, 
-        int n, 
-        vector<int>& curr,
-        vector<int>& nums, 
+        int n,
+        vector<int>&nums, 
+        vector<int>&curr,
         vector<vector<int>>& ans
     ){
         if(idx == n){
@@ -13,19 +13,16 @@ public:
         }
 
         curr.push_back(nums[idx]);
-        getSubsets(idx+1, n, curr, nums, ans);
-
+        getsubsets(idx+1, n, nums, curr, ans);
         curr.pop_back();
-        getSubsets(idx+1, n, curr, nums, ans);
+        getsubsets(idx+1, n, nums, curr, ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
         int n = nums.size();
-        vector<int> curr;
 
-        getSubsets(0, n, curr, nums, ans);
-
+        vector<vector<int>>ans;
+        vector<int>curr;
+        getsubsets(0, n, nums, curr, ans);
         return ans;
-
     }
 };
