@@ -47,28 +47,25 @@ public:
         }
 
         // bfs 
-        int level =0;
-        vector<int>visited(n*n+1, 0);
+        vector<int> dist(n * n + 1, -1);
+
         queue<int>q;
         q.push(1);
-        visited[1]=1;
+
+        dist[1] =0;
 
         while(!q.empty()){
-            int size = q.size();
-            while(size--){
-                int pos = q.front();
-                q.pop();
+            int house = q.front();
+            q.pop();
 
-                if(pos == n*n) return level;
+            if(house == n*n) return dist[house];
 
-                for(int nbr: graph[pos]){
-                    if(!visited[nbr]){
-                        q.push(nbr);
-                        visited[nbr] =1;
-                    }
+            for(int nbr: graph[house]){
+                if(dist[nbr] == -1){
+                    q.push(nbr);
+                    dist[nbr] = dist[house] +1;
                 }
             }
-            level +=1;
         }
 
         return -1;
