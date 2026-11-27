@@ -46,6 +46,7 @@
 | [0704-binary-search](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0986-interval-list-intersections](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
@@ -170,6 +171,7 @@
 | [0463-island-perimeter](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
@@ -269,6 +271,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0841-keys-and-rooms) |
+| [0909-snakes-and-ladders](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/ShrutiAnand03/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShrutiAnand03/dsa-practice/tree/master/1254-number-of-closed-islands) |
